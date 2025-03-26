@@ -1,15 +1,30 @@
- # AlgoTradingSystem
-The purpose of the algorithmic trading system is to deploy buy sell signals in the stock market via a functional python program. 
+ # Kaufman Efficiency Ratio 
+Goal of Project: Create a Kaufman Efficiency Ratio Indicator used for Strategy Development and Backtesting 
 
-<h2>Software Development</h2>
+Context for Project: The Kaufman Efficiency Ratio is an indicator that evaluates price patterns to determine whether the price pattern shows trend-following behavior or mean reversion behavior. 
 
 
-<h1>JWipe - Disk Sanitization</h1>
+<h2>Trend-Following Price Pattern</h2>
+If the kaufman efficiency ratio returns a values near 1, then the probability of the price pattern of a given asset that is publicly traded is highly likely to be trendfollowing.
+ 
+![Trend Following](https://github.com/user-attachments/assets/02eeef6d-7672-4546-8df1-c6e9e605cb4e)
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+<h2>Mean Reversion Price Pattern</h2>
+If the kaufman efficiency ratio returns a values near 0, then the probability of the price pattern of a given asset that is publicly traded is highly likely to be mean reverting.
+ 
+ ![sideways](https://github.com/user-attachments/assets/277caaca-dd59-4cbc-bec5-13d0ede2314a)
 
-<h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+
+<h1>KER Formula</h1>
+
+ER = (Change in Price over N periods) / (Sum of the absolute price changes over N periods)
+
+<h2>Method Structure</h2>
+
+
+![KER Method](https://github.com/user-attachments/assets/ea4141bc-bfa3-4778-9da0-99c8e9113d47)
+
+ a
 <br />
 
 
