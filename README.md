@@ -23,6 +23,7 @@ Project consists of a simple PowerShell script that walks the user through "zero
 - <b>Windows 10</b> (21H2)
 
 <h2>Program walk-through:</h2>
+![Art Ad School Summer Event](https://github.com/user-attachments/assets/9a654410-b0b3-4c7d-929e-3958ec0d4b78)
 
 <p align="center">
 Launch the utility: <br/>
