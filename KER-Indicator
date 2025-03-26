@@ -1,5 +1,9 @@
 # Kaufman Efficiency Ratio
-The purpose of the algorithmic trading system is to deploy buy sell signals in the stock market via a functional python program. 
+Goal of Project: To create a Kaufman Efficiency Ratio used for strategy development in an algorithmic trading system. 
+
+Context: The Kaufman Efficiency Ratio is used to evaluate whether the asset displays a price pattern that is trend following or mean reversion. 
+
+
 
 <h2>Software Development</h2>
 
