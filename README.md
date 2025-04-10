@@ -32,13 +32,18 @@ length - a variables that takes in a num value that serves as the determinant fo
 
 <br />
 
+ 
 
-<h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+<h2>Group Splitting</h2>
 
+![KER Code](https://github.com/user-attachments/assets/4401f69a-b11d-46a0-af03-fd4898fae438)
+
+Purpose of Code: Splits closing price series into a groups based on the length given. 
+
+ 
 <h2>Environments Used </h2>
+
 
 - <b>Windows 10</b> (21H2)
 
