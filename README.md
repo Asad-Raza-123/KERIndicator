@@ -24,7 +24,12 @@ ER = (Change in Price over N periods) / (Sum of the absolute price changes over 
 
 ![KER Method](https://github.com/user-attachments/assets/ea4141bc-bfa3-4778-9da0-99c8e9113d47)
 
- a
+data1 - a variable that is to take the closing price of a given asset price series. 
+
+dataFrame1 - a variable that takes the asset dataframe that contains open, high, low, and close price series --> adds KER indicator 
+
+length - a variables that takes in a num value that serves as the determinant for each set split number size through which the KER indicator is calculated. 
+
 <br />
 
 
