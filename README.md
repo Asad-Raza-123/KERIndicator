@@ -2,7 +2,7 @@
 Goal of Project: Create a Kaufman Efficiency Ratio Indicator used for Strategy Development and Backtesting 
 
 Context for Project: The Kaufman Efficiency Ratio is an indicator that evaluates price patterns to determine whether the price pattern shows trend-following behavior or mean reversion behavior. 
-
+ss
 
 <h2>Trend-Following Price Pattern</h2>
 If the kaufman efficiency ratio returns a values near 1, then the probability of the price pattern of a given asset that is publicly traded is highly likely to be trendfollowing.
